@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Zapatos",
+      "cost": "65000",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museo_del_Bicentenario_-_Zapatos_de_N%C3%A9stor_Kirchner.jpg/800px-Museo_del_Bicentenario_-_Zapatos_de_N%C3%A9stor_Kirchner.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Camisa",
+      "cost": "45000",
+      "image": "https://irreal.vtexassets.com/arquivos/ids/238621-800-auto?v=638464610384270000&width=800&height=auto&aspect=true"
+    },
+    {
+      "id": "3",
+      "title": "Pantalones",
+      "cost": "75000",
+      "image": "https://almacenesfreigenedo.com/blog/wp-content/uploads/2022/01/pexels-mart-production-7679454-1024x682.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Reloj",
+      "cost": "120000",
+      "image": "https://www.oficinadeltiempo.com/images/NOTICIAS_2020/valor-de-los-relojes-de-bolsillo-antiguos.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Mochila",
+      "cost": "95000",
+      "image": "https://i5.walmartimages.com/asr/6e16762d-4591-47a5-b09a-2f913a116451.a69138e19e58785193111e4940a7bcad.jpeg"
+    },
+    {
+      "id": "81e0",
+      "title": "Peluche",
+      "cost": "15000",
+      "image": "https://flormiel.com/floristeria/wp-content/uploads/2019/04/Peluche-Stich-Az%C3%BAl.jpg"
+    }
+  ]
+}
